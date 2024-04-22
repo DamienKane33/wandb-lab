@@ -1,0 +1,21 @@
+2024-04-21 21:40:29,980 INFO    StreamThr :41372 [internal.py:wandb_internal():86] W&B internal server running at pid: 41372, started at: 2024-04-21 21:40:29.979937
+2024-04-21 21:40:29,981 DEBUG   HandlerThread:41372 [handler.py:handle_request():146] handle_request: status
+2024-04-21 21:40:29,981 INFO    WriterThread:41372 [datastore.py:open_for_write():87] open: C:\Users\Jonathan\Code\wandb-lab\wandb\run-20240421_214029-3evh33sr\run-3evh33sr.wandb
+2024-04-21 21:40:29,982 DEBUG   SenderThread:41372 [sender.py:send():379] send: header
+2024-04-21 21:40:29,982 DEBUG   SenderThread:41372 [sender.py:send():379] send: run
+2024-04-21 21:40:30,511 INFO    SenderThread:41372 [dir_watcher.py:__init__():211] watching files in: C:\Users\Jonathan\Code\wandb-lab\wandb\run-20240421_214029-3evh33sr\files
+2024-04-21 21:40:30,511 INFO    SenderThread:41372 [sender.py:_start_run_threads():1124] run started: 3evh33sr with start time 1713750029.054702
+2024-04-21 21:40:30,519 DEBUG   HandlerThread:41372 [handler.py:handle_request():146] handle_request: check_version
+2024-04-21 21:40:30,520 DEBUG   SenderThread:41372 [sender.py:send_request():406] send_request: check_version
+2024-04-21 21:40:30,966 DEBUG   HandlerThread:41372 [handler.py:handle_request():146] handle_request: shutdown
+2024-04-21 21:40:30,966 INFO    HandlerThread:41372 [handler.py:finish():866] shutting down handler
+2024-04-21 21:40:31,532 INFO    WriterThread:41372 [datastore.py:close():296] close: C:\Users\Jonathan\Code\wandb-lab\wandb\run-20240421_214029-3evh33sr\run-3evh33sr.wandb
+2024-04-21 21:40:31,964 INFO    SenderThread:41372 [sender.py:finish():1546] shutting down sender
+2024-04-21 21:40:31,964 INFO    SenderThread:41372 [dir_watcher.py:finish():358] shutting down directory watcher
+2024-04-21 21:40:32,517 INFO    SenderThread:41372 [dir_watcher.py:finish():388] scan: C:\Users\Jonathan\Code\wandb-lab\wandb\run-20240421_214029-3evh33sr\files
+2024-04-21 21:40:32,517 INFO    SenderThread:41372 [dir_watcher.py:finish():402] scan save: C:\Users\Jonathan\Code\wandb-lab\wandb\run-20240421_214029-3evh33sr\files\config.yaml config.yaml
+2024-04-21 21:40:32,517 INFO    SenderThread:41372 [file_pusher.py:finish():172] shutting down file pusher
+2024-04-21 21:40:32,517 INFO    SenderThread:41372 [file_pusher.py:join():178] waiting for file pusher
+2024-04-21 21:40:33,126 INFO    wandb-upload_0:41372 [upload_job.py:push():131] Uploaded file C:\Users\Jonathan\Code\wandb-lab\wandb\run-20240421_214029-3evh33sr\files\config.yaml
+2024-04-21 21:40:33,519 INFO    SenderThread:41372 [file_stream.py:finish():614] file stream finish called
+2024-04-21 21:40:33,954 INFO    SenderThread:41372 [file_stream.py:finish():618] file stream finish is done

@@ -1,0 +1,53 @@
+{
+    "os": "Windows-10-10.0.19045-SP0",
+    "python": "3.12.3",
+    "heartbeatAt": "2024-04-22T01:43:36.454622",
+    "startedAt": "2024-04-22T01:43:34.579073",
+    "docker": null,
+    "cuda": null,
+    "args": [],
+    "state": "running",
+    "program": "C:\\Users\\Jonathan\\Code\\wandb-lab\\runner.py",
+    "codePathLocal": "runner.py",
+    "codePath": "runner.py",
+    "git": {
+        "remote": "https://github.com/DamienKane33/wandb-lab.git",
+        "commit": null
+    },
+    "email": "167384040+DamienKane33@users.noreply.github.com",
+    "root": "C:/Users/Jonathan/Code/wandb-lab",
+    "host": "DESKTOP-J8IC6GU",
+    "username": "Jonathan",
+    "executable": "C:\\Users\\Jonathan\\AppData\\Local\\Microsoft\\WindowsApps\\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\\python.exe",
+    "cpu_count": 10,
+    "cpu_count_logical": 20,
+    "cpu_freq": {
+        "current": 3600.0,
+        "min": 0.0,
+        "max": 3600.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 3600.0,
+            "min": 0.0,
+            "max": 3600.0
+        }
+    ],
+    "disk": {
+        "/": {
+            "total": 232.27276992797852,
+            "used": 224.1532096862793
+        }
+    },
+    "gpu": "NVIDIA GeForce RTX 3070",
+    "gpu_count": 1,
+    "gpu_devices": [
+        {
+            "name": "NVIDIA GeForce RTX 3070",
+            "memory_total": 8589934592
+        }
+    ],
+    "memory": {
+        "total": 31.895557403564453
+    }
+}
