@@ -57,28 +57,28 @@ This section will contain the required images for this lab, consisting of **at l
 
 ## W&B Server Homepage
 
-![Image of the W&B Server Homepage](images/home.png)
+![Image of the W&B Server Homepage](Images/home.png)
 
 ## Projects Page
 
-![Image of the W&B Server Projects page](images/projects.png)
+![Image of the W&B Server Projects page](Images/projects.png)
 
 ## System Admin Page
 
-![Image of the W&B Server System Admin Page](images/sysadmin.png)
+![Image of the W&B Server System Admin Page](Images/sysadmin.png)
 
 ## Project With At Least 10 Completed Runs
 
-![Image of project with at least 10 completed runs](images/all-runs.png)
+![Image of project with at least 10 completed runs](Images/all-runs.png)
 
 ## Infrastructure Resources
 
-![Image of Resources in wandb1-rg](images/wandb1-rg.png)
-![Image of MC_wandb1_wandb1-cluster_eastus-rg](images/mc_wandb1_wandb1-cluster_eastus-rg.png)
+![Image of Resources in wandb1-rg](Images/wandb1-rg.png)
+![Image of MC_wandb1_wandb1-cluster_eastus-rg](Images/mc_wandb1_wandb1-cluster_eastus-rg.png)
 
 # Additional Images
 
 Additional images of runs that were completed and grouped together via the script improvements.
 
-![Image of project with completed runs grouped together](images/group-lab.png)
-![Image of project with completed runs grouped together](images/group-lab2.png)
+![Image of project with completed runs grouped together](Images/group-lab.png)
+![Image of project with completed runs grouped together](Images/group-lab2.png)
